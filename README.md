@@ -5,17 +5,6 @@
 ## Project Overview
 This project aims to improve the accuracy and relevance of search results using advanced information retrieval techniques. The system implements various indexing and preprocessing methods, including inverted indexing, query expansion, and compression techniques, to enhance search efficiency.
 
-## Table of Contents
-- [Features](#features)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 - **Inverted Index**: Efficient data structure for quick lookups of documents containing specific terms.
 - **Query Expansion**: Enhances user queries to improve retrieval performance.
